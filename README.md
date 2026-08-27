@@ -5,7 +5,7 @@ Little Linux command line utility for displaying system and hardware information
 * Full OS and kernel info
 * Uptime (days + hours, minutes, seconds) info
 * CPU info
-* RAM and file system info
+* RAM and disk space info
 * PCI devices list
 
 ## Installation
