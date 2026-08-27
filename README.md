@@ -1,2 +1,2 @@
-# specs
-Little Linux command line utility for displaying system and hardware information
+# Specs
+Little Linux command line utility for displaying system and hardware information.
